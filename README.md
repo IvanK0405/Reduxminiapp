@@ -1,3 +1,3 @@
 Redux mini app. 
 
-Link:
+Link: https://reduxminiapp.vercel.app/
